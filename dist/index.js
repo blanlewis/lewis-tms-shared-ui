@@ -70,7 +70,7 @@ function CustomSidebar({
                 textDecoration: "none",
                 fontSize: "15px",
                 fontWeight: isActive ? 600 : 400,
-                color: isActive ? "#1268E8" : "#334155",
+                color: isActive ? "#0000ffa8" : "#334155",
                 backgroundColor: isActive ? "#E8F1FF" : "transparent"
               },
               children: [
